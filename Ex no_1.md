@@ -13,8 +13,8 @@ To write a program to initialize the value as 5.8 & display the same.
 ```
 /*
 Program to initialize the value as 5.8 & display the same.
-Developed by: Esaki Muthu E
-RegisterNumber: 212222060055
+Developed by: Mukilan B
+RegisterNumber: 212222060156
 */
 #include <stdio.h>
 int main()
